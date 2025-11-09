@@ -1,11 +1,3 @@
-{
-  "bracketSpacing": true,
-  "printWidth": 140,
-  "singleQuote": true,
-  "trailingComma": "none",
-  "tabWidth": 2,
-  "useTabs": false,
-  "htmlWhitespaceSensitivity": "ignore",
-  "bracketSameLine": false,
-  "endOfLine": "lf"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd506cd514d3af0f27f4b0ef89a9ae4a2f2ded82dbd409c6c1176fd58194e2f
+size 227
